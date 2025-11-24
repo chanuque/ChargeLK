@@ -4,7 +4,7 @@ ChargeLK is a full-stack Location Intelligence platform designed to optimize the
 
 Unlike standard map apps that just find chargers, ChargeLK uses a geospatial scoring engine to identify critical infrastructure gaps—analyzing the distance between existing chargers (supply) and high-traffic hotspots (demand) to recommend the perfect spot for the next station.
 
-🚀 Key Features
+Key Features
 
 🌍 Interactive Islandwide Map: Visualizes the entire EV network from Jaffna to Matara using high-performance Leaflet maps.
 
@@ -18,25 +18,25 @@ Unlike standard map apps that just find chargers, ChargeLK uses a geospatial sco
 
 🛠️ Tech Stack
 
-Frontend (The Glass Cockpit)
+- Frontend (The Glass Cockpit)
 
-React.js (Vite): Lightning-fast UI rendering.
+- React.js (Vite): Lightning-fast UI rendering.
 
-Leaflet & React-Leaflet: Advanced mapping and custom marker layers.
+- Leaflet & React-Leaflet: Advanced mapping and custom marker layers.
 
-Tailwind CSS: For the polished, responsive "Glassmorphism" design.
+- Tailwind CSS: For the polished, responsive "Glassmorphism" design.
 
-Recharts: Data visualization for the score gauges.
+- Recharts: Data visualization for the score gauges.
 
-Lucide React: Beautiful, consistent iconography.
+- Lucide React: Beautiful, consistent iconography.
 
 Backend (The Geospatial Brain)
 
-Python (Flask): Robust REST API handling analysis requests.
+- Python (Flask): Robust REST API handling analysis requests.
 
-Geopy: Performs real-time geodesic distance calculations (Haversine formula).
+- Geopy: Performs real-time geodesic distance calculations (Haversine formula).
 
-Pandas: Data structuring for station and hotspot management.
+- Pandas: Data structuring for station and hotspot management.
 
 📦 Installation & Setup
 
