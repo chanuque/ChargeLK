@@ -44,9 +44,9 @@ This project follows a Monorepo structure (Frontend + Backend in one repo).
 
 Prerequisites
 
-Node.js (v16+)
+- Node.js (v16+)
 
-Python (v3.8+)
+- Python (v3.8+)
 
 1. Clone & Install
 
@@ -76,10 +76,10 @@ npm run dev
 
 The AI Scoring Engine evaluates three key metrics:
 
-Demand Proximity: Is the location near a known hotspot (Mall, Hotel, Tourist Site)? (+Score)
+- Demand Proximity: Is the location near a known hotspot (Mall, Hotel, Tourist Site)? (+Score)
 
-Competition Distance: Is there already a charger nearby? (-Score for saturation)
+- Competition Distance: Is there already a charger nearby? (-Score for saturation)
 
-Grid Gap: Is this a "desert" with no coverage? (+Score for strategic value)
+- Grid Gap: Is this a "desert" with no coverage? (+Score for strategic value)
 
 Built by Chanuque 
