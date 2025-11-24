@@ -1,12 +1,14 @@
-⚡ ChargeLK: Intelligent EV Infrastructure Planner
+# ⚡ ChargeLK: Intelligent EV Infrastructure Planner 
 
-<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/7b943f59-7b89-41ce-a502-cf2166648685" />
+<img width="1919" height="946" alt="Image" src="https://github.com/user-attachments/assets/5d2c8959-96fa-40b8-84cb-03115dbf8e9e" />
+
+<img width="1919" height="946" alt="Image" src="https://github.com/user-attachments/assets/65801b8f-3307-459d-b936-3cd68c0773d3" />
 
 ChargeLK is a full-stack Location Intelligence platform designed to optimize the expansion of Sri Lanka's Electric Vehicle (EV) charging network.
 
 Unlike standard map apps that just find chargers, ChargeLK uses a geospatial scoring engine to identify critical infrastructure gaps—analyzing the distance between existing chargers (supply) and high-traffic hotspots (demand) to recommend the perfect spot for the next station.
 
-Key Features
+# Key Features
 
 🌍 Interactive Islandwide Map: Visualizes the entire EV network from Jaffna to Matara using high-performance Leaflet maps.
 
@@ -18,7 +20,7 @@ Key Features
 
 📍 Multi-City Navigation: One-click "Fly To" navigation for major hubs like Colombo, Kandy, and Trincomalee.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Frontend (The Glass Cockpit)
 
@@ -61,7 +63,7 @@ cd ChargeLK
 cd backend
 pip install -r requirements.txt
 python app.py
-# Server starts on http://localhost:5000
+// Server starts on http://localhost:5000
 
 
 3. Setup Frontend (React)
@@ -71,10 +73,10 @@ python app.py
 cd frontend
 npm install
 npm run dev
-# App opens on http://localhost:5173
+// App opens on http://localhost:5173
 
 
-🔮 The Logic Behind the Score
+# 🔮 The Logic Behind the Score
 
 The AI Scoring Engine evaluates three key metrics:
 
