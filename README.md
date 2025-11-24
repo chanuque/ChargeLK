@@ -1,5 +1,7 @@
 ⚡ ChargeLK: Intelligent EV Infrastructure Planner
 
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/7b943f59-7b89-41ce-a502-cf2166648685" />
+
 ChargeLK is a full-stack Location Intelligence platform designed to optimize the expansion of Sri Lanka's Electric Vehicle (EV) charging network.
 
 Unlike standard map apps that just find chargers, ChargeLK uses a geospatial scoring engine to identify critical infrastructure gaps—analyzing the distance between existing chargers (supply) and high-traffic hotspots (demand) to recommend the perfect spot for the next station.
