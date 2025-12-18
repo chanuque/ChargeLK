@@ -22,7 +22,7 @@ Unlike standard map apps that just find chargers, ChargeLK uses a geospatial sco
 
 # 🛠️ Tech Stack
 
-- Frontend (The Glass Cockpit)
+Frontend (The Glass Cockpit)
 
 - React.js (Vite): Lightning-fast UI rendering.
 
